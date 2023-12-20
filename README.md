@@ -38,13 +38,21 @@ responses for user-friendly representation using GoLang. <br />
 • Developed and executed unit test cases to validate the functionality and sustainability of implemented features, ensuring high code quality and resilience. <br />
 
 ### Projects
-• Library Management Project Sept 2023 <br />
+• **Library Management Project** *Sept 2023* <br />
 Implemented a system to keep track of the volumes in a library using GoLang. The application has information on
 books and can be used to execute all the CRUD operations along with book searches, issuance, and serialization.<br />
-• Resource Wiki Mar 2023 <br />
+[Github Repo]https://github.com/manaswini1869/Library-Managment
+• **Resource Wiki** *Mar 2023* <br />
 This project aimed to create a CLI tool that identifies the Terraform workspace associated with an AWS resource
 using its ID, enabling users to manage the resource effectively.<br />
-• Automatic Water Tanker Filling station June 2021 <br />
+• **Automatic Water Tanker Filling station** *June 2021* <br />
 This project eliminates the need for manual intervention in filling water tankers by utilizing sensors to detect
 tank status, automatically controlling water flow, and generating IoT-based water bills, protected by an Indian
-government patent (Design No. 369341-001, Patent No. 136975).
+government patent (Design No. 369341-001, Patent No. 136975). <br />
+
+[Project Video]https://drive.google.com/drive/folders/1WfhKp011qEx2PfqygxT7Gr8Cw5_jgLtV?usp=sharing
+
+### Extra Curricular Activities
+Certificate of Appreciation - Guards of Ford (Individial) JP Morgan Chase and Co. <br />
+Undergraduate captain of the college Throwball Sports Team. <br />
+Volunteered at the Blue Cross of Hyderabad. <br />
