@@ -15,9 +15,9 @@ CGPA: 9.71 <br />
 ### Skills
 Technical Skills <br />
 GoLang, Python, Java, C/C++, AWS, Docker, Kubernetes, Terraform, Angular, HTML, CSS,
-Windows, Linux, Atlassian, Agile, Scrum
+Windows, Linux, Atlassian, Agile, Scrum <br/>
 Non-technical skills <br />
-Project Design, Solution Design, Test Development, Resource Management, Collaboration, Problem-Solving
+Project Design, Solution Design, Test Development, Resource Management, Collaboration, Problem-Solving <br />
 Certification <br />
 Certified Kubernetes Application Developer Credential ID LF-d5ebcazbsx
 
