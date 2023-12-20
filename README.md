@@ -40,10 +40,10 @@ responses for user-friendly representation using GoLang. <br />
 ### Projects
 • Library Management Project Sept 2023 <br />
 Implemented a system to keep track of the volumes in a library using GoLang. The application has information on
-books and can be used to execute all the CRUD operations along with book searches, issuance, and serialization.
+books and can be used to execute all the CRUD operations along with book searches, issuance, and serialization.<br />
 • Resource Wiki Mar 2023 <br />
 This project aimed to create a CLI tool that identifies the Terraform workspace associated with an AWS resource
-using its ID, enabling users to manage the resource effectively.
+using its ID, enabling users to manage the resource effectively.<br />
 • Automatic Water Tanker Filling station June 2021 <br />
 This project eliminates the need for manual intervention in filling water tankers by utilizing sensors to detect
 tank status, automatically controlling water flow, and generating IoT-based water bills, protected by an Indian
